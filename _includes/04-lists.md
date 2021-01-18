@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+## Things I like/love
+- People
+  - Wife
+  - Mom
+- Roleplaying Games
+  - Solo
+  - VTT
+- Sweets
+  - Donuts
+  - Junior Mints 
