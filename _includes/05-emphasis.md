@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Critical Thinker**  
+__Humorous__  
+*Those who don't learn from history are doomed to repeat it.*  
+_Teach a man to fish..._
